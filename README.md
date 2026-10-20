@@ -10,7 +10,7 @@ My workspace from Antonio Brandi's *Robotics and ROS 2 — Manipulators* course 
 | `arduinobot_remote` | Task server (C++ and Python) driving MoveIt |
 | `arduinobot_msgs`, `arduinobot_py`, `arduinobot_utils` | Interfaces and examples |
 
-**Where this led:** [Aura mobile manipulator](https://github.com/Curious-Utkarsh/ROS2_Mobile_Manipulator_Gazebo) · [Franka colour sorting](https://github.com/MechaMind-Labs/Franka_Panda_Color_Sorting_Robot) · [SCARA conveyor cell](https://github.com/Curious-Utkarsh/ROS2_SCARA_WS)
+**Where this led:** [Aura mobile manipulator](https://github.com/Curious-Utkarsh/aura-mobile-manipulator) · [Franka colour sorting](https://github.com/MechaMind-Labs/franka-color-sorting-robot) · [SCARA conveyor cell](https://github.com/Curious-Utkarsh/scara-pick-and-place)
 
 ---
 [Kumar Utkarsh](https://github.com/Curious-Utkarsh) · [LinkedIn](https://www.linkedin.com/in/kumar-utkarsh-124aab227/)
